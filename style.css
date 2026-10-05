@@ -1,0 +1,39 @@
+.card-one {
+    display: flex;
+    gap: 20px;
+}
+.card-s {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+button {
+    background-color: red;
+    color:white;
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.profession { 
+background-color: pink;
+text-align: center;
+font-size: 24px;
+border-radius: 7px;
+padding: 5px;
+}
+.name{ 
+    background-color: greenyellow;
+    border-radius: 7px;
+    padding:  5px;
+    color: coral;
+    font-size: 40px;
+}
+.description { 
+    color: black;
+    background-color: magenta;
+    border-radius: 7px;
+    padding: 5px;
+}
